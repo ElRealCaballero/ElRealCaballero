@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm new on this platform and in the world of programming 😄
+### I'm new on this platform and in the world of programming 😄
 
 <!--
 **ElRealCaballero/ElRealCaballero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
